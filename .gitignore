@@ -1,1 +1,7 @@
 dataset
+.env
+model.keras
+__pycache__
+.venv
+models
+wandb
